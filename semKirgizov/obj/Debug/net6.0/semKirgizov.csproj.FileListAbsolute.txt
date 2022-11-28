@@ -1,0 +1,15 @@
+C:\Users\shavuh1n\source\repos\semKirgizov\semKirgizov\bin\Debug\net6.0\semKirgizov.exe
+C:\Users\shavuh1n\source\repos\semKirgizov\semKirgizov\bin\Debug\net6.0\semKirgizov.deps.json
+C:\Users\shavuh1n\source\repos\semKirgizov\semKirgizov\bin\Debug\net6.0\semKirgizov.runtimeconfig.json
+C:\Users\shavuh1n\source\repos\semKirgizov\semKirgizov\bin\Debug\net6.0\semKirgizov.dll
+C:\Users\shavuh1n\source\repos\semKirgizov\semKirgizov\bin\Debug\net6.0\semKirgizov.pdb
+C:\Users\shavuh1n\source\repos\semKirgizov\semKirgizov\obj\Debug\net6.0\semKirgizov.csproj.AssemblyReference.cache
+C:\Users\shavuh1n\source\repos\semKirgizov\semKirgizov\obj\Debug\net6.0\semKirgizov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shavuh1n\source\repos\semKirgizov\semKirgizov\obj\Debug\net6.0\semKirgizov.AssemblyInfoInputs.cache
+C:\Users\shavuh1n\source\repos\semKirgizov\semKirgizov\obj\Debug\net6.0\semKirgizov.AssemblyInfo.cs
+C:\Users\shavuh1n\source\repos\semKirgizov\semKirgizov\obj\Debug\net6.0\semKirgizov.csproj.CoreCompileInputs.cache
+C:\Users\shavuh1n\source\repos\semKirgizov\semKirgizov\obj\Debug\net6.0\semKirgizov.dll
+C:\Users\shavuh1n\source\repos\semKirgizov\semKirgizov\obj\Debug\net6.0\refint\semKirgizov.dll
+C:\Users\shavuh1n\source\repos\semKirgizov\semKirgizov\obj\Debug\net6.0\semKirgizov.pdb
+C:\Users\shavuh1n\source\repos\semKirgizov\semKirgizov\obj\Debug\net6.0\semKirgizov.genruntimeconfig.cache
+C:\Users\shavuh1n\source\repos\semKirgizov\semKirgizov\obj\Debug\net6.0\ref\semKirgizov.dll
